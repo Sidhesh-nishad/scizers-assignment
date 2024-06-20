@@ -37,8 +37,8 @@ function ImageSection() {
         <Image
           src={imageSectionData[currImage].image}
           alt={imageSectionData[currImage].imageAlt}
-          height={494}
-          width={1122}
+          height={500}
+          width={500}
           className="object-cover rounded-[14px]"
         />
         <Image
