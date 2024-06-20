@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import image1 from "../../public/imageSection/image1.jpg";
 import { imageSectionData } from "../../utils";
 import Aos from "aos";
 import "aos/dist/aos.css";
