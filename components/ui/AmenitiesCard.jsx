@@ -14,6 +14,8 @@ function AmenitiesCard({ data }) {
       <Image
         src={image}
         alt={title}
+        height={500}
+        width={500}
         className="md:h-[193px] md:w-[193px] h-[116px] w-[116px] z-50 rounded-full absolute top-[6.5px]"
       />
       <Image
