@@ -31,8 +31,6 @@ function HeroSection() {
       <div className="w-full">
         <Image
           src={heroImg}
-          height={500}
-          width={500}
           alt="Hero Image"
           className="object-cover h-[800px] sp:h-[750px] lg:h-[500px] xl:h-full md:h-[450px]  w-full cursor-pointer "
         />

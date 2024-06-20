@@ -37,8 +37,6 @@ function ImageSection() {
         <Image
           src={imageSectionData[currImage].image}
           alt={imageSectionData[currImage].imageAlt}
-          height={500}
-          width={500}
           className="object-cover rounded-[14px]"
         />
         <Image
@@ -60,8 +58,6 @@ function ImageSection() {
             src={data.image}
             alt={data.imageAlt}
             key={data.id}
-            height={168}
-            width={265}
             className="object-cover rounded-[14px]  lg:w-[140px]  xl:w-[265px] max-md:w-[86px]"
           />
         ))}
