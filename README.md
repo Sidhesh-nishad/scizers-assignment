@@ -8,7 +8,7 @@ git clone https://github.com/Sidhesh-nishad/scizers-assignment.git
 
 3. run the project use command 'npm run dev' in you terminal
 
-4.check the local host link in your terminal and one it
+4.check the local host link in your terminal and open it
 
 ------------- or you can open directly-------------
 
